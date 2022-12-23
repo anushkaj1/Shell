@@ -1,0 +1,7 @@
+06
+cd ..
+cd ../..
+ls
+ls -l
+ls -a
+ls -al
