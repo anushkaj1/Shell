@@ -6,8 +6,6 @@
 - This is an implementation of the command line. Various shell commands have been coded manually.
 - The coded commands can be executed to implement in a way similar to that of the Linux shell.
 - To execute the program, run the command `make` followed by `./jezsh`.
-- The program contains all the functionality required for assignment 2 and also supports
-input/oputput redirection, i.e. specification 1 for assignment 3.
 
 ## bg.c
 Creates a new background process.
